@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Bachelor in Computer Science at Federal University of Alfenas<br>- Backend Developer</p>
+<p align="left">- Bachelor in Computer Science at the Federal University of Alfenas<br>- Backend Developer</p>
 
 ###
 
